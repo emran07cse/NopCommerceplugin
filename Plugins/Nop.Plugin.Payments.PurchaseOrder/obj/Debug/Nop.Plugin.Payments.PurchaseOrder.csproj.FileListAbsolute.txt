@@ -1,0 +1,11 @@
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\xampp\htdocs\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: EasyPayWay Gateway
+SystemName: Payments.EasyPayWay
+Version: 1.00
+SupportedVersions: 3.40
+Author: Ratul Paul
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.EasyPayWay.dll

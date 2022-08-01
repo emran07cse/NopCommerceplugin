@@ -1,0 +1,101 @@
+﻿@{
+    Layout = "";
+}
+@model Nop.Plugin.Payments.EasyPayWay.Models.ConfigurationModel
+@using Nop.Web.Framework;
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+
+@using (Html.BeginForm())
+{
+    <table class="adminContent">
+        <tr>
+            <td colspan="2">
+                <b>EasyPayWay Payment Gateway Configuration (Only for Bangladesh)</b>
+                <br />
+                This plugin supports localization. So, you can edit texts associated with this. The string resources which are used in this plugin are: <br />
+                <ol>
+                    <li>Plugins.Payments.EasyPayWay.RedirectionTip</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.UseSandbox</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.UseSandbox.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.TestStoreId</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.TestStoreId.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.LiveStoreId</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.LiveStoreId.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.AdditionalFee</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.AdditionalFee.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.AdditionalFeePercentage</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.AdditionalFeePercentage.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage</li>
+                    <li>Plugins.Payments.EasyPayWay.Fields.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage.Hint</li>
+                    <li>Plugins.Payments.EasyPayWay.PaymentErrorMessage</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.UseSandbox_OverrideForStore, model => model.UseSandbox, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.UseSandbox):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.UseSandbox)
+                @Html.ValidationMessageFor(model => model.UseSandbox)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.TestStoreId_OverrideForStore, model => model.TestStoreId, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.TestStoreId):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.TestStoreId)
+                @Html.ValidationMessageFor(model => model.TestStoreId)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.LiveStoreId_OverrideForStore, model => model.LiveStoreId, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.LiveStoreId):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.LiveStoreId)
+                @Html.ValidationMessageFor(model => model.LiveStoreId)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.AdditionalFee_OverrideForStore, model => model.AdditionalFee, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.AdditionalFee):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.AdditionalFee)
+                @Html.ValidationMessageFor(model => model.AdditionalFee)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.AdditionalFeePercentage_OverrideForStore, model => model.AdditionalFeePercentage, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.AdditionalFeePercentage):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.AdditionalFeePercentage)
+                @Html.ValidationMessageFor(model => model.AdditionalFeePercentage)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage_OverrideForStore, model => model.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage)
+                @Html.ValidationMessageFor(model => model.ReturnFromEasyPayWayWithoutPaymentRedirectsToOrderDetailsPage)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" name="save" class="k-button" value="@T("Admin.Common.Save")" />
+            </td>
+        </tr>
+    </table>
+    
+}

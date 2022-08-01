@@ -1,0 +1,10 @@
+﻿Group: Foster Payment
+FriendlyName: Foster Payments (formely Payment Gateway)
+SystemName: fosterpayments.com
+Version: 1.66
+SupportedVersions: 3.50
+Author: Emran
+DisplayOrder: 1
+FileName: Nop.Plugin.Fosterpayments.dll
+
+

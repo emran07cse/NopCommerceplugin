@@ -1,0 +1,5 @@
+C:\xampp\htdocs\NopCommerce\Plugins\ClassLibrary1\obj\Debug\nop.Plugin.foster.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\NopCommerce\Plugins\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\xampp\htdocs\NopCommerce\Plugins\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\xampp\htdocs\NopCommerce\Plugins\ClassLibrary1\ClassLibrary1.dll
+C:\xampp\htdocs\NopCommerce\Plugins\ClassLibrary1\ClassLibrary1.pdb

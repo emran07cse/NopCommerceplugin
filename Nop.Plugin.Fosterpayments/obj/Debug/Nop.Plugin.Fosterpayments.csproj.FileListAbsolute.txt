@@ -1,0 +1,13 @@
+C:\xampp\htdocs\NopCommerce\Nop.Plugin.Fosterpayments\bin\Debug\Nop.Plugin.Fosterpayments.dll
+C:\xampp\htdocs\NopCommerce\Nop.Plugin.Fosterpayments\bin\Debug\Nop.Plugin.Fosterpayments.pdb
+C:\xampp\htdocs\NopCommerce\Nop.Plugin.Fosterpayments\obj\Debug\Nop.Plugin.Fosterpayments.dll
+C:\xampp\htdocs\NopCommerce\Nop.Plugin.Fosterpayments\obj\Debug\Nop.Plugin.Fosterpayments.pdb
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Nop.Plugin.Fosterpayments.dll
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Nop.Plugin.Fosterpayments.pdb
+C:\xampp\htdocs\NopCommerce\Nop.Plugin.Fosterpayments\obj\Debug\Nop.Plugin.Fosterpayments.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Description.txt
+C:\xampp\htdocs\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\logo.jpg
+C:\Users\Emran\Documents\Visual Studio 2013\Projects\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Description.txt
+C:\Users\Emran\Documents\Visual Studio 2013\Projects\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\logo.jpg
+C:\Users\Emran\Documents\Visual Studio 2013\Projects\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Nop.Plugin.Fosterpayments.dll
+C:\Users\Emran\Documents\Visual Studio 2013\Projects\NopCommerce\Plugins\Nop.Plugin.Fosterpayments\Nop.Plugin.Fosterpayments.pdb

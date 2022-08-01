@@ -1,0 +1,22 @@
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Description.txt
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\logo.jpg
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\web.config
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Views\PaymentEasyPayWay\Configure.cshtml
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Views\PaymentEasyPayWay\PaymentInfo.cshtml
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.dll.config
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.dll
+E:\KichukkhonV2\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.pdb
+E:\KichukkhonV2\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.csprojResolveAssemblyReference.cache
+E:\KichukkhonV2\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.dll
+E:\KichukkhonV2\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.pdb
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Description.txt
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\logo.jpg
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\web.config
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Views\PaymentEasyPayWay\Configure.cshtml
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Views\PaymentEasyPayWay\PaymentInfo.cshtml
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.dll.config
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.dll
+E:\Dev Helper\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.EasyPayWay\Nop.Plugin.Payments.EasyPayWay.pdb
+E:\Dev Helper\nopCommerce_3.40_Source\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.csprojResolveAssemblyReference.cache
+E:\Dev Helper\nopCommerce_3.40_Source\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.dll
+E:\Dev Helper\nopCommerce_3.40_Source\Plugins\Nop.Plugin.Payments.EasyPayWay\obj\Debug\Nop.Plugin.Payments.EasyPayWay.pdb
